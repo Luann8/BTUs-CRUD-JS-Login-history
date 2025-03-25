@@ -43,6 +43,8 @@ Aqui está um exemplo do trecho relevante do `package.json`:
 ```
 npm install
 
+npm install express bcrypt sqlite3 cors express-session connect-sqlite3 dotenv
+
 npm start
 ```
 
